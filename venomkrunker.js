@@ -1,9 +1,9 @@
 // ==Venom Krunker Aimbot==
 // @name         Venom Aimbot for Krunker.io
 // @description  Venom Krunker.io Aimbot
-// @updateURL    https://github.com/Tehchy/krunker.io-hack/raw/master/userscript.user.js
-// @downloadURL  https://github.com/Tehchy/krunker.io-hack/raw/master/userscript.user.js
-// @version      4.5
+// @updateURL    https://raw.githubusercontent.com/NoahDevX/venomaimbot/master/venomkrunker.js
+// @downloadURL  https://raw.githubusercontent.com/NoahDevX/venomaimbot/master/venomkrunker.js
+// @version      1.0
 // @author       Aspect
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
 // @grant        GM_xmlhttpRequest
