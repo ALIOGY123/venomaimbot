@@ -1,3 +1,8 @@
+# NOTE: I'AM NOT UPDATING THIS ANYMORE, THANKS FOR THE SUPPORT <3
+# Consider updating it yourself.
+# - AspectDevelopment
+
+
 # Venom Aimbot
 Venom Krunker.io Aimbot, this script was made on 13-4-2020.
 Feel free to use it for free and share it with your friend if they do like to play Krunker.io.
